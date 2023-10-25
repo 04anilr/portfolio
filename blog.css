@@ -1,0 +1,11 @@
+.blog-cantainer {
+    display: grid;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
+.blog-top{
+    padding-top: 13rem;
+
+}
